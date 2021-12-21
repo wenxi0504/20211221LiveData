@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">20211221LiveData</string>
+    <string name="imageButtonDescription">thumbUpDescription</string>
+    <string name="imageButton2Description">thumbdown</string>
+</resources>
